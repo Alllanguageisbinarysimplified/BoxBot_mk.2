@@ -39,5 +39,6 @@ public class ExampleCommand extends CommandBase {
   @Override
   public boolean isFinished() {
     return false;
+    //I hate microsoft 2
   }
 }
